@@ -1,1 +1,1 @@
-content/r/concepts/functions/functions.md
+content/html/concepts/favicon/favicon.md
